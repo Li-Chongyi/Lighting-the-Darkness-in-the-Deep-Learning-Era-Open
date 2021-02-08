@@ -1,6 +1,7 @@
 ## Lighting-the-Darkness-in-the-Deep-Learning-Era✌
-This repository contains the constructed Smartphone Photography Attribute and Quality (SPAQ) database and implementations for the paper "Perceptual Quality Assessment of Smartphone Photography", Yuming Fang*, Hanwei Zhu*, Yan Zeng, Kede Ma, Zhou Wang, IEEE Conference on Computer Vision and Pattern Recognition, 2020. (*Equal contribution)
+This repository provides a unified online platform, DarkPlatform, that covers many popular deep learning-based LLIE methods, of which the results can be produced through a user-friend web interface, contains a low-light image and video dataset, in which the images and videos are taken by various phones' cameras under diverse illumination conditions, collects low-light image and video enhancement methods, datasets, and evaluation metrics. 
 
+We will periodically update the results for noticeable underwater image enhancement methods.  It is very welcome to let us know if we miss your work that is published in top-tier Journal or conference. We will add it.
 
 
 |Date|First Author|Title|Conference/Journal|
@@ -49,6 +50,4 @@ This repository contains the constructed Smartphone Photography Attribute and Qu
 |201309|[Gabriela Csurka](https://scholar.google.ca/citations?user=PXm1lPAAAAAJ&hl=zh-CN&oi=sra)|What is a good evaluation measure for semantic segmentation? [(paper)](http://www.bmva.org/bmvc/2013/Papers/paper0032/paper0032.pdf)|BMVA 2013|
 
 
-It is very welcome to send me your saliency maps if your work is published in top-level conference. 
 
-If I miss your work, please let me know and I'll add it.
