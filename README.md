@@ -10,7 +10,7 @@ Currently, the DarkPlatform covers 13 popular deep learning-based LLIE methods i
 LLIVPhone dataset contains 78 videos (23,631 images) taken by 11 different phones' cameras including iPhone 6s, iPhone 7, iPhone7 Plus, iPhone8 Plus, iPhone 11, iPhone 11 Pro, iPhone XS, iPhone XR, iPhone SE, Mi 9, OnePlus 5T) under diverse illumination conditions (e.g., weak illumination, underexposure, dark, extremely dark, back-lit, non-uniform light, color light sources, etc.) in the indoor and outdoor scenes. The images and videos in LLIVPhone dataset are saved in PNG and MOV formats, respectively.  Link and Samples and Summary:
 
 ### Low-Light Image and Video Enhancement Methods
-```
+
 |Date|First Author|Title|Conference/Journal|
 |---|---|---|---|
 |20200929|Stefan Gerl|A Distance-Based Loss for Smooth and Continuous Skin Layer Segmentation in Optoacoustic Images|[MICCAI 2020](https://link.springer.com/chapter/10.1007%2F978-3-030-59725-2_30)|
