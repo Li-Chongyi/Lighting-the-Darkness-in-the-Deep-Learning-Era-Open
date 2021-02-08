@@ -11,8 +11,8 @@ LLIVPhone dataset contains 78 videos (23,631 images) taken by 11 different phone
 
 ### Low-Light Image and Video Enhancement Methods
 
-|Date|First Author|Title|Conference/Journal|
-|---|---|---|---|
+|Date|Publication|Title|Abbreviation|Code|
+|---|---|---|---|---|
 |20200929|Stefan Gerl|A Distance-Based Loss for Smooth and Continuous Skin Layer Segmentation in Optoacoustic Images|[MICCAI 2020](https://link.springer.com/chapter/10.1007%2F978-3-030-59725-2_30)|
 |20200821|Nick Byrne|A persistent homology-based **topological loss** function for multi-class CNN segmentation of cardiac MRI [arxiv](https://arxiv.org/abs/2008.09585)|STACOM|
 |20200720|Boris Shirokikh|**Universal Loss Reweighting** to Balance Lesion Size Inequality in 3D Medical Image Segmentation [arxiv](https://arxiv.org/abs/2007.10033) [(pytorch)](https://arxiv.org/abs/2007.10033)|MICCAI 2020|
