@@ -1,7 +1,7 @@
-## Lighting-the-Darkness-in-the-Deep-Learning-Era✌
-This repository provides a unified online platform, DarkPlatform, that covers many popular deep learning-based LLIE methods, of which the results can be produced through a user-friend web interface, contains a low-light image and video dataset, in which the images and videos are taken by various phones' cameras under diverse illumination conditions, collects low-light image and video enhancement methods, datasets, and evaluation metrics. 
+## Lighting-the-Darkness-in-the-Deep-Learning-Era
+This repository provides a unified online platform, **DarkPlatform**, that covers many popular deep learning-based LLIE methods, of which the results can be produced through a user-friend web interface, contains a low-light image and video dataset, **LLIVPhone**, in which the images and videos are taken by various phones' cameras under diverse illumination conditions, collects low-light image and video enhancement **methods, datasets, and evaluation metrics**. 
 
-We will periodically update the results for noticeable underwater image enhancement methods.  It is very welcome to let us know if we miss your work that is published in top-tier Journal or conference. We will add it.
+✌We will periodically update the results for noticeable underwater image enhancement methods.  It is welcome to let us know if we miss your work that is published in top-tier Journal or conference. We will add it.✌
 
 
 |Date|First Author|Title|Conference/Journal|
