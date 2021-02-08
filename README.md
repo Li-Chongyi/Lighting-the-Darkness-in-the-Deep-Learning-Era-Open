@@ -1,7 +1,7 @@
 ## Lighting-the-Darkness-in-the-Deep-Learning-Era
 This repository provides a unified online platform, **DarkPlatform**, that covers many popular deep learning-based LLIE methods, of which the results can be produced through a user-friend web interface, contains a low-light image and video dataset, **LLIVPhone**, in which the images and videos are taken by various phones' cameras under diverse illumination conditions, collects low-light image and video enhancement **methods, datasets, and evaluation metrics**. 
 
-✌We will periodically update the results for noticeable underwater image enhancement methods.  It is welcome to let us know if we miss your work that is published in top-tier Journal or conference. We will add it.✌
+✌We will periodically update the content.  It is welcome to let us know if we miss your work that is published in top-tier Journal or conference. We will add it.✌
 
 ### DarkPlatform
 Currently, the DarkPlatform covers 13 popular deep learning-based LLIE methods including LLNet \cite{LLNet}, LightenNet \cite{LightenNet}, Retinex-Net \cite{ChenBMVC18}, EnlightenGAN \cite{EnlightenGAN}, MBLLEN \cite{LvBMVC2018}, KinD \cite{ZhangACM19}, KinD++ \cite{GuoIJCV2020}, TBEFN \cite{TBEFN}, DSLR \cite{DSLR}, DRBN \cite{YangCVRP20}, ExCNet \cite{ZhangACM191}, Zero-DCE \cite{ZeroDCE}, and  RRDNet \cite{RRDNet},  where the results of any inputs can be produced through a user-friend web interface. Link: 
