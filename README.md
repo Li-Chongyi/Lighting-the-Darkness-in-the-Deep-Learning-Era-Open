@@ -85,3 +85,22 @@ LLIVPhone dataset contains 78 videos (23,631 images) taken by 11 different phone
 |PI (Perceptual Index)|Non-Reference|Matlab|[Code](https://github.com/chaoma99/sr-metric)|
 |SPAQ (Smartphone Photography Attribute and Quality)|Non-Reference|Pytorch|[Code](https://github.com/h4nwei/SPAQ)|
 |NIMA (Neural Image Assessment)|Non-Reference|Pytorch/Tensorflow|[Code](https://github.com/kentsyx/Neural-IMage-Assessment)/[Code](https://github.com/titu1994/neural-image-assessment)|
+
+### Citation
+If you find the repository helpful in your resarch, please cite the following paper.
+```
+@article{,
+  title={},
+  author={},
+  journal={},
+  year={}
+}
+
+```
+
+Contact Information
+```
+lichongyi25@gmail.com
+
+guochunle@nankai.edu.cn
+```
