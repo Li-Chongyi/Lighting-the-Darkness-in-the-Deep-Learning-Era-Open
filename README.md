@@ -73,7 +73,7 @@ LLIVPhone dataset contains 78 videos (23,631 images) taken by 11 different phone
 
 
 ### Metrics
-|Abbreviation|Full-Reference/Non-Reference|Platform|Code|
+|Abbreviation|Full-/Non-Reference|Platform|Code|
 |---|---|---|---|
 |MAE (Mean Absolute Error)|Full-Reference| | |
 |MSE (Mean Square Error)|Full-Reference| | |
@@ -84,4 +84,4 @@ LLIVPhone dataset contains 78 videos (23,631 images) taken by 11 different phone
 |NIQE (Naturalness Image Quality Evaluator)|Non-Reference|Matlab|[Code](https://github.com/utlive/niqe)|
 |PI (Perceptual Index)|Non-Reference|Matlab|[Code](https://github.com/chaoma99/sr-metric)|
 |SPAQ (Smartphone Photography Attribute and Quality)|Non-Reference|Pytorch|[Code](https://github.com/h4nwei/SPAQ)|
-|NIMA (Neural Image Assessment)|Non-Reference|Pytorch/Tensorflow|[Code]https://github.com/kentsyx/Neural-IMage-Assessment)/[Code](https://github.com/titu1994/neural-image-assessment)|
+|NIMA (Neural Image Assessment)|Non-Reference|Pytorch/Tensorflow|[Code](https://github.com/kentsyx/Neural-IMage-Assessment)/[Code](https://github.com/titu1994/neural-image-assessment)|
