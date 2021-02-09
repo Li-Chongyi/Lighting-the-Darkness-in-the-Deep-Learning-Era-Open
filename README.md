@@ -75,3 +75,13 @@ LLIVPhone dataset contains 78 videos (23,631 images) taken by 11 different phone
 ### Metrics
 |Abbreviation|Full-Reference/Non-Reference|Platform|Code|
 |---|---|---|---|
+|MAE (Mean Absolute Error)|Full-Reference| | |
+|MSE (Mean Square Error)|Full-Reference| | |
+|PSNR (Peak Signal-to-Noise Ratio)|Full-Reference| | |
+|SSIM (Structural Similarity Index Measurement)|Full-Reference|Matlab|[Code](http://www.cns.nyu.edu/~lcv/ssim/ssim_index.m) |
+|LPIPS (Learned Perceptual Image Patch Similarity)|Full-Reference|Pytorch|[Code](https://github.com/richzhang/PerceptualSimilarity) |
+|LOE (Lightness Order Error)|Non-Reference|Matlab|[Code](https://drive.google.com/drive/folders/0B3YzCh6G4aubLUhQMzdzR05nSDg?usp=sharing) |
+|NIQE (Naturalness Image Quality Evaluator)|Non-Reference|Matlab|[Code](https://github.com/utlive/niqe)|
+|PI (Perceptual Index)|Non-Reference|Matlab|[Code](https://github.com/chaoma99/sr-metric)|
+|SPAQ (Smartphone Photography Attribute and Quality)|Non-Reference|Pytorch|[Code](https://github.com/h4nwei/SPAQ)|
+|NIMA (Neural Image Assessment)|Non-Reference|Pytorch/Tensorflow|[Code]https://github.com/kentsyx/Neural-IMage-Assessment)/[Code](https://github.com/titu1994/neural-image-assessment)|
