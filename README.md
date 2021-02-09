@@ -56,10 +56,10 @@ LLIVPhone dataset contains 78 videos (23,631 images) taken by 11 different phone
 ### Datasets
 |Abbreviation|Number|Format|Real/Synetic|Video|Paired/Unpaired/Application|Dataset|
 |---|---|---|---|---|---|---|
-|LOL|500|RGB|Real|No|Paired|[Dataset](https://daooshee.github.io/BMVC2018website/)|
-|SCIE|4413|RGB|Real|No|Paired|[Dataset](https://github.com/csjcai/SICE)|
-|MIT-Adobe FiveK|5000|RAW|Real|No|Paired|[Dataset](https://data.csail.mit.edu/graphics/fivek/)|
-|SID|5094|RAW|Real|No|Paired|[Dataset](https://github.com/cchen156/Learning-to-See-in-the-Dark)|
+|LOL [paper](https://arxiv.org/abs/1808.04560)|500|RGB|Real|No|Paired|[Dataset](https://daooshee.github.io/BMVC2018website/)|
+|SCIE [paper](https://ieeexplore.ieee.org/abstract/document/8259342/)|4413|RGB|Real|No|Paired|[Dataset](https://github.com/csjcai/SICE)|
+|MIT-Adobe FiveK [paper](http://people.csail.mit.edu/vladb/photoadjust/db_imageadjust.pdf)|5000|Raw|Real|No|Paired|[Dataset](https://data.csail.mit.edu/graphics/fivek/)|
+|SID|5094|Raw|Real|No|Paired|[Dataset](https://github.com/cchen156/Learning-to-See-in-the-Dark)|
 |DRV|202|Raw|Real|Yes|Paired|[Dataset](https://github.com/cchen156/Seeing-Motion-in-the-Dark) |
 |SMOID|179|Raw|Real|Yes|Paired|[Dataset](https://github.com/MichaelHYJiang) |
 |LIME|10|RGB|Real|No|Unpaired|[Dataset](https://drive.google.com/file/d/0BwVzAzXoqrSXb3prWUV1YzBjZzg/view)|
