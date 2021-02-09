@@ -1,4 +1,4 @@
-## Lighting-the-Darkness-in-the-Deep-Learning-Era
+## Lighting the Darkness in the Deep Learning Era: A Survey, An Online Platform, A New Dataset
 This repository provides a unified online platform, **DarkPlatform**, that covers many popular deep learning-based LLIE methods, of which the results can be produced through a user-friend web interface, contains a low-light image and video dataset, **LLIVPhone**, in which the images and videos are taken by various phones' cameras under diverse illumination conditions, and collects deep learning-based low-light image and video enhancement **methods, datasets, and evaluation metrics**. More content and details can be found in our Survey Paper: [Lighting the Darkness in the Deep Learning Era](https://link.springer.com/chapter/10.1007%2F978-3-030-59725-2_30).
 
 ✌We will periodically update the content.  It is welcome to let us know if we miss your work that is published in top-tier Journal or conference. We will add it.✌
