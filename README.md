@@ -7,9 +7,9 @@ This repository provides a unified online platform, **DarkPlatform**, that cover
 ## Contents
 1. [DarkPlatform](#DarkPlatform)
 3. [LLIVPhone Dataset](#LLIVPhone)
-4. [Deep Learning-Based Low-Light Image and Video Enhancement Methods](#Deep Learning-Based Low-Light Image and Video Enhancement Methods)
+4. [Methods](#Methods)
 5. [Datasets](#Datasets)
-6. [Evaluation Metrics](#Evaluation Metrics)
+6. [Metrics](#Metrics)
 7. [Citation](#Citation)
 
 ### DarkPlatform
