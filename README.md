@@ -22,7 +22,7 @@ LLIVPhone dataset contains 78 videos (23,631 images) taken by 11 different phone
 ![Overview](/chronology.png)
 |Date|Publication|Title|Abbreviation|Code|Platform|
 |---|---|---|---|---|---|
-|2017|PR|LLNet: A deep autoencoder approach to natural low-light image enhancement|LLNet|[Code]({https://github.com/kglore/llnet_color)|Theano|
+|2017|PR|LLNet: A deep autoencoder approach to natural low-light image enhancement [paper](https://www.sciencedirect.com/science/article/abs/pii/S003132031630125X)|LLNet|[Code](https://github.com/kglore/llnet_color)|Theano|
 |20200821|Nick Byrne|A persistent homology-based **topological loss** function for multi-class CNN segmentation of cardiac MRI [arxiv](https://arxiv.org/abs/2008.09585)|STACOM|
 |20200720|Boris Shirokikh|**Universal Loss Reweighting** to Balance Lesion Size Inequality in 3D Medical Image Segmentation [arxiv](https://arxiv.org/abs/2007.10033) [(pytorch)](https://arxiv.org/abs/2007.10033)|MICCAI 2020|
 |20200708|Gonglei Shi|**Marginal loss and exclusion loss** for partially supervised multi-organ segmentation [(arXiv)](https://arxiv.org/abs/2007.03868)|MedIA|
