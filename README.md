@@ -63,10 +63,10 @@ LLIVPhone dataset contains 78 videos (23,631 images) taken by 11 different phone
 |DRV [paper](https://openaccess.thecvf.com/content_ICCV_2019/html/Chen_Seeing_Motion_in_the_Dark_ICCV_2019_paper.html)|202|Raw|Real|Yes|Paired|[Dataset](https://github.com/cchen156/Seeing-Motion-in-the-Dark) |
 |SMOID [paper](https://openaccess.thecvf.com/content_ICCV_2019/html/Jiang_Learning_to_See_Moving_Objects_in_the_Dark_ICCV_2019_paper.html)|179|Raw|Real|Yes|Paired|[Dataset](https://github.com/MichaelHYJiang) |
 |LIME [paper](https://ieeexplore.ieee.org/abstract/document/7782813)|10|RGB|Real|No|Unpaired|[Dataset](https://drive.google.com/file/d/0BwVzAzXoqrSXb3prWUV1YzBjZzg/view)|
-|NPE [paper] (https://ieeexplore.ieee.org/abstract/document/6512558)|84|RGB|Real|No|Unpaired|[Dataset](https://drive.google.com/drive/folders/1lp6m5JE3kf3M66Dicbx5wSnvhxt90V4T)|
-|MEF [paper] (https://ieeexplore.ieee.org/abstract/document/7120119)|17|RGB|Real|No|Unpaired|[Dataset](https://drive.google.com/drive/folders/1lp6m5JE3kf3M66Dicbx5wSnvhxt90V4T)|
-|DICM [paper] (https://ieeexplore.ieee.org/abstract/document/6467022)|64|RGB|Real|No|Unpaired|[Dataset](https://drive.google.com/drive/folders/1lp6m5JE3kf3M66Dicbx5wSnvhxt90V4T)|
+|NPE [paper](https://ieeexplore.ieee.org/abstract/document/6512558)|84|RGB|Real|No|Unpaired|[Dataset](https://drive.google.com/drive/folders/1lp6m5JE3kf3M66Dicbx5wSnvhxt90V4T)|
+|MEF [paper](https://ieeexplore.ieee.org/abstract/document/7120119)|17|RGB|Real|No|Unpaired|[Dataset](https://drive.google.com/drive/folders/1lp6m5JE3kf3M66Dicbx5wSnvhxt90V4T)|
+|DICM [paper](https://ieeexplore.ieee.org/abstract/document/6467022)|64|RGB|Real|No|Unpaired|[Dataset](https://drive.google.com/drive/folders/1lp6m5JE3kf3M66Dicbx5wSnvhxt90V4T)|
 |VV|24|RGB|Real|No|Unpaired|[Dataset](https://drive.google.com/drive/folders/1lp6m5JE3kf3M66Dicbx5wSnvhxt90V4T)|
-|ExDARK [paper] (https://www.sciencedirect.com/science/article/abs/pii/S1077314218304296)|7363|RGB|Real|No|Application|[Dataset](https://github.com/cs-chan/Exclusively-Dark-Image-Dataset)|
-|BBD-100K [paper] (https://udparty.com/php/upload/20180627/153006477668ddb6563df254a8.pdf)|10,000|RGB|Real|Yes|Application|[Dataset](https://bdd-data.berkeley.edu/)|
-|DARK FACE [paper] (https://arxiv.org/abs/1904.04474)|6000|RGB|Real|No|Application|[Dataset](https://flyywh.github.io/CVPRW2019LowLight/)|
+|ExDARK [paper](https://www.sciencedirect.com/science/article/abs/pii/S1077314218304296)|7363|RGB|Real|No|Application|[Dataset](https://github.com/cs-chan/Exclusively-Dark-Image-Dataset)|
+|BBD-100K [paper](https://udparty.com/php/upload/20180627/153006477668ddb6563df254a8.pdf)|10,000|RGB|Real|Yes|Application|[Dataset](https://bdd-data.berkeley.edu/)|
+|DARK FACE [paper](https://arxiv.org/abs/1904.04474)|6000|RGB|Real|No|Application|[Dataset](https://flyywh.github.io/CVPRW2019LowLight/)|
