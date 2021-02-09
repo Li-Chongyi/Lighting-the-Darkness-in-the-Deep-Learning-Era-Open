@@ -23,8 +23,8 @@ LLIVPhone dataset contains 78 videos (23,631 images) taken by 11 different phone
 |Date|Publication|Title|Abbreviation|Code|Platform|
 |---|---|---|---|---|---|
 |2017|PR|LLNet: A deep autoencoder approach to natural low-light image enhancement [paper](https://www.sciencedirect.com/science/article/abs/pii/S003132031630125X)|LLNet|[Code](https://github.com/kglore/llnet_color)|Theano|
-|20200821|Nick Byrne|A persistent homology-based **topological loss** function for multi-class CNN segmentation of cardiac MRI [arxiv](https://arxiv.org/abs/2008.09585)|STACOM|
-|20200720|Boris Shirokikh|**Universal Loss Reweighting** to Balance Lesion Size Inequality in 3D Medical Image Segmentation [arxiv](https://arxiv.org/abs/2007.10033) [(pytorch)](https://arxiv.org/abs/2007.10033)|MICCAI 2020|
+|2018|PRL|LightenNet: A convolutional neural network for weakly illuminated image enhancement [paper](https://www.sciencedirect.com/science/article/abs/pii/S0167865518300163)|LightenNet|[Code](https://li-chongyi.github.io/proj_lowlight.html)|Caffe & Matlab|
+|2018|BMVC|Deep retinex decomposition for low-light enhancement [paper](https://arxiv.org/abs/1808.04560)|Retinex-Net|[Code](https://github.com/weichen582/RetinexNet)|Tensorflow|
 |20200708|Gonglei Shi|**Marginal loss and exclusion loss** for partially supervised multi-organ segmentation [(arXiv)](https://arxiv.org/abs/2007.03868)|MedIA|
 |20200706|Yuan Lan|An **Elastic Interaction-Based Loss** Function for Medical Image Segmentation [(pytorch)](https://github.com/charrywhite/elastic_interaction_based_loss) [(arXiv)](https://arxiv.org/abs/2007.02663)|MICCAI 2020|
 |20200615|Tom Eelbode|Optimization for Medical Image Segmentation: Theory and Practice when evaluating with Dice Score or Jaccard Index|[TMI](https://ieeexplore.ieee.org/document/9116807)|
