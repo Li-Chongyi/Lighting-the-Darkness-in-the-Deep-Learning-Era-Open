@@ -13,7 +13,7 @@ This repository provides a unified online platform, **LoLi-Platform http://mc.na
 7. [Citation](#Citation)
 
 ### LoLi-Platform
-Currently, the LoLi-Platform covers 13 popular deep learning-based LLIE methods including LLNet, LightenNet, Retinex-Net, EnlightenGAN, MBLLEN, KinD, KinD++, TBEFN, DSLR, DRBN, ExCNet, Zero-DCE, and  RRDNet,  where the results of any inputs can be produced through a user-friend web interface. Have fun: [LoLi-Platform]().
+Currently, the LoLi-Platform covers 13 popular deep learning-based LLIE methods including LLNet, LightenNet, Retinex-Net, EnlightenGAN, MBLLEN, KinD, KinD++, TBEFN, DSLR, DRBN, ExCNet, Zero-DCE, and  RRDNet,  where the results of any inputs can be produced through a user-friend web interface. Have fun: [LoLi-Platform](http://mc.nankai.edu.cn/ll/).
 
 ### LoLi-Phone
 ![Overview](/dataset_samples.png)
