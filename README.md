@@ -78,13 +78,13 @@ LoLi-Phone dataset contains 120 videos (55,148 images) taken by 18 different pho
 |MAE (Mean Absolute Error)|Full-Reference| | |
 |MSE (Mean Square Error)|Full-Reference| | |
 |PSNR (Peak Signal-to-Noise Ratio)|Full-Reference| | |
-|SSIM (Structural Similarity Index Measurement)|Full-Reference|Matlab|[Code](http://www.cns.nyu.edu/~lcv/ssim/ssim_index.m) |
-|LPIPS (Learned Perceptual Image Patch Similarity)|Full-Reference|Pytorch|[Code](https://github.com/richzhang/PerceptualSimilarity) |
+|SSIM (Structural Similarity Index Measurement)|Full-Reference|MATLAB|[Code](http://www.cns.nyu.edu/~lcv/ssim/ssim_index.m) |
+|LPIPS (Learned Perceptual Image Patch Similarity)|Full-Reference|PyTorch|[Code](https://github.com/richzhang/PerceptualSimilarity) |
 |LOE (Lightness Order Error)|Non-Reference|Matlab|[Code](https://drive.google.com/drive/folders/0B3YzCh6G4aubLUhQMzdzR05nSDg?usp=sharing) |
 |NIQE (Naturalness Image Quality Evaluator)|Non-Reference|MATLAB|[Code](https://github.com/utlive/niqe)|
 |PI (Perceptual Index)|Non-Reference|MATLAB|[Code](https://github.com/chaoma99/sr-metric)|
 |SPAQ (Smartphone Photography Attribute and Quality)|Non-Reference|PyTorch|[Code](https://github.com/h4nwei/SPAQ)|
-|NIMA (Neural Image Assessment)|Non-Reference|Pytorch/TensorFlow|[Code](https://github.com/kentsyx/Neural-IMage-Assessment)/[Code](https://github.com/titu1994/neural-image-assessment)|
+|NIMA (Neural Image Assessment)|Non-Reference|PyTorch/TensorFlow|[Code](https://github.com/kentsyx/Neural-IMage-Assessment)/[Code](https://github.com/titu1994/neural-image-assessment)|
 
 ### Citation
 If you find the repository helpful in your resarch, please cite the following paper.
