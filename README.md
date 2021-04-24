@@ -1,7 +1,7 @@
 ## Lighting the Darkness in the Deep Learning Era: A Survey, An Online Platform, A New Dataset
 This repository provides a unified online platform, **LoLi-Platform http://mc.nankai.edu.cn/ll/**, that covers many popular deep learning-based LLIE methods, of which the results can be produced through a user-friendly web interface, contains a low-light image and video dataset, **LoLi-Phone**, in which the images and videos are taken by various phones' cameras under diverse illumination conditions and scenes, and collects deep learning-based low-light image and video enhancement **methods, datasets, and evaluation metrics**. More content and details can be found in our Survey Paper: [Lighting the Darkness in the Deep Learning Era](https://arxiv.org/abs/2104.10729). We provide the comparison results on the real low-light videos taken by different mobile phones’ cameras at YouTube https://www.youtube.com/watch?v=Elo9TkrG5Oo&t=6s.
 
-✌We will periodically update the content.  It is welcome to let us know if we miss your work that is published in top-tier Journal or conference. We will add it.
+✌We will periodically update the content.  Welcome to let us know if we miss your work that is published in top-tier Journal or conference. We will add it.
 
 
 ## Contents
@@ -13,7 +13,7 @@ This repository provides a unified online platform, **LoLi-Platform http://mc.na
 7. [Citation](#Citation)
 
 ### LoLi-Platform
-Currently, the LoLi-Platform covers 13 popular deep learning-based LLIE methods including LLNet, LightenNet, Retinex-Net, EnlightenGAN, MBLLEN, KinD, KinD++, TBEFN, DSLR, DRBN, ExCNet, Zero-DCE, and  RRDNet,  where the results of any inputs can be produced through a user-friend web interface. Have fun: [LoLi-Platform](http://mc.nankai.edu.cn/ll/).
+Currently, the LoLi-Platform covers 13 popular deep learning-based LLIE methods including LLNet, LightenNet, Retinex-Net, EnlightenGAN, MBLLEN, KinD, KinD++, TBEFN, DSLR, DRBN, ExCNet, Zero-DCE, and  RRDNet,  where the results of any inputs can be produced through a user-friendly web interface. Have fun: [LoLi-Platform](http://mc.nankai.edu.cn/ll/).
 
 ### LoLi-Phone
 ![Overview](/dataset_samples.png)
