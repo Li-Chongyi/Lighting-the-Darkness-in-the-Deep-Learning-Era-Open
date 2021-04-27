@@ -3,6 +3,8 @@ This repository provides a unified online platform, **LoLi-Platform http://mc.na
 
 ✌We will periodically update the content.  Welcome to let us know if we miss your work that is published in top-tier Journal or conference. We will add it.
 
+✌Our **LoLi-Platform** supports the function of download. Please right click and save figure. 
+
 ✌If you use this dataset or platform, please cite our paper. Please hit the star at the top-right corner. Thanks!
 
 ## Contents
