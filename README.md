@@ -90,7 +90,7 @@ LoLi-Phone dataset contains 120 videos (55,148 images) taken by 18 different pho
 |NIMA (Neural Image Assessment)|Non-Reference|PyTorch/TensorFlow|[Code](https://github.com/kentsyx/Neural-IMage-Assessment)/[Code](https://github.com/titu1994/neural-image-assessment)|
 
 ##  License
-The code is made available for academic research purpose only. This project is open sourced under MIT license.
+The code, platform, and dataset are made available for academic research purpose only. This project is open sourced under MIT license.
 
 ### Citation
 If you find the repository helpful in your resarch, please cite the following paper.
