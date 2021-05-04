@@ -7,7 +7,7 @@ This repository provides a unified online platform, **LoLi-Platform http://mc.na
 
 ✌If you use this dataset or platform, please cite our paper. Please hit the star at the top-right corner. Thanks!
 
-## Contents
+## 😀Contents
 1. [LoLi-Platform](#DarkPlatform)
 3. [LoLi-Phone Dataset](#LLIVPhone)
 4. [Methods](#Methods)
