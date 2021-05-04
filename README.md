@@ -7,7 +7,7 @@ This repository provides a unified online platform, **LoLi-Platform http://mc.na
 
 ✌If you use this dataset or platform, please cite our paper. Please hit the star at the top-right corner. Thanks!
 
-## 😀Contents
+## 📣Contents
 1. [LoLi-Platform](#DarkPlatform)
 3. [LoLi-Phone Dataset](#LLIVPhone)
 4. [Methods](#Methods)
@@ -15,14 +15,14 @@ This repository provides a unified online platform, **LoLi-Platform http://mc.na
 6. [Metrics](#Metrics)
 7. [Citation](#Citation)
 
-### LoLi-Platform
+### 📣LoLi-Platform
 Currently, the LoLi-Platform covers 13 popular deep learning-based LLIE methods including LLNet, LightenNet, Retinex-Net, EnlightenGAN, MBLLEN, KinD, KinD++, TBEFN, DSLR, DRBN, ExCNet, Zero-DCE, and  RRDNet,  where the results of any inputs can be produced through a user-friendly web interface. Have fun: [LoLi-Platform](http://mc.nankai.edu.cn/ll/).
 
-### LoLi-Phone
+### 📣LoLi-Phone
 ![Overview](/dataset_samples.png)
 LoLi-Phone dataset contains 120 videos (55,148 images) taken by 18 different phones' cameras including iPhone 6s, iPhone 7, iPhone7 Plus, iPhone8 Plus, iPhone 11, iPhone 11 Pro, iPhone XS, iPhone XR, iPhone SE, Xiaomi Mi 9, Xiaomi Mi Mix 3, Pixel 3, Pixel 4,  Oppo R17, Vivo Nex, LG M322, OnePlus 5T, Huawei Mate 20 Pro under diverse illumination conditions (e.g., weak illumination, underexposure, dark, extremely dark, back-lit, non-uniform light, color light sources, etc.) in the indoor and outdoor scenes. Anyone can access the [LoLi-Phone dataset](https://drive.google.com/file/d/1QS4FgT5aTQNYy-eHZ_A89rLoZgx_iysR/view?usp=sharing) or (Google Drive: https://drive.google.com/file/d/1QS4FgT5aTQNYy-eHZ_A89rLoZgx_iysR/view?usp=sharing; Baidu Cloud：https://pan.baidu.com/s/1-8PF3dfbtlHlmk9y5ZKx_w, Password: s0b9). 
 
-### Methods
+## 📋Methods
 ![Overview](/chronology.png)
 |Date|Publication|Title|Abbreviation|Code|Platform|
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@ LoLi-Phone dataset contains 120 videos (55,148 images) taken by 18 different pho
 |2020|TMM|DSLR: Deep stacked laplacian restorer for low-light image enhancement [paper](https://ieeexplore.ieee.org/abstract/document/9264763/)|DSLR|[Code](https://github.com/SeokjaeLIM/DSLR-release) |PyTorch|
 
 
-### Datasets
+## 📋Datasets
 |Abbreviation|Number|Format|Real/Synetic|Video|Paired/Unpaired/Application|Dataset|
 |---|---|---|---|---|---|---|
 |LOL [paper](https://arxiv.org/abs/1808.04560)|500|RGB|Real|No|Paired|[Dataset](https://daooshee.github.io/BMVC2018website/)|
@@ -75,7 +75,7 @@ LoLi-Phone dataset contains 120 videos (55,148 images) taken by 18 different pho
 |DARK FACE [paper](https://arxiv.org/abs/1904.04474)|6000|RGB|Real|No|Application|[Dataset](https://flyywh.github.io/CVPRW2019LowLight/)|
 
 
-### Metrics
+## 📋Metrics
 |Abbreviation|Full-/Non-Reference|Platform|Code|
 |---|---|---|---|
 |MAE (Mean Absolute Error)|Full-Reference| | |
@@ -103,7 +103,7 @@ If you find the repository helpful in your resarch, please cite the following pa
 }
 
 ```
-## 📧</g-emoji>Contact
+## 📭Contact
 
 ```
 lichongyi25@gmail.com; guochunle@nankai.edu.cn
