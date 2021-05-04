@@ -89,10 +89,10 @@ LoLi-Phone dataset contains 120 videos (55,148 images) taken by 18 different pho
 |SPAQ (Smartphone Photography Attribute and Quality)|Non-Reference|PyTorch|[Code](https://github.com/h4nwei/SPAQ)|
 |NIMA (Neural Image Assessment)|Non-Reference|PyTorch/TensorFlow|[Code](https://github.com/kentsyx/Neural-IMage-Assessment)/[Code](https://github.com/titu1994/neural-image-assessment)|
 
-##  License
+## 📜</g-emoji>License
 The code, platform, and dataset are made available for academic research purpose only. This project is open sourced under MIT license.
 
-### Citation
+## 📚</g-emoji>Citation
 If you find the repository helpful in your resarch, please cite the following paper.
 ```
 @article{LoLi,
@@ -103,7 +103,7 @@ If you find the repository helpful in your resarch, please cite the following pa
 }
 
 ```
-## 📧</g-emoji>Contact Information
+## 📧</g-emoji>Contact
 
 ```
 lichongyi25@gmail.com; guochunle@nankai.edu.cn
