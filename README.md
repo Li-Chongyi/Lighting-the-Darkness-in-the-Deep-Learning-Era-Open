@@ -103,9 +103,8 @@ If you find the repository helpful in your resarch, please cite the following pa
 }
 
 ```
-📧</g-emoji>Contact Information
-```
-lichongyi25@gmail.com
+## Contact Information
 
-guochunle@nankai.edu.cn
+```
+📧</g-emoji>lichongyi25@gmail.com; guochunle@nankai.edu.cn
 ```
