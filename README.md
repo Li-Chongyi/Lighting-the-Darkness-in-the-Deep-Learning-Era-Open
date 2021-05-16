@@ -73,7 +73,7 @@ LoLi-Phone dataset contains 120 videos (55,148 images) taken by 18 different pho
 |ExDARK [paper](https://www.sciencedirect.com/science/article/abs/pii/S1077314218304296)|7363|RGB|Real|No|Application (Object Detection)|[Dataset](https://github.com/cs-chan/Exclusively-Dark-Image-Dataset)|
 |BBD-100K [paper](https://udparty.com/php/upload/20180627/153006477668ddb6563df254a8.pdf)|10,000|RGB|Real|Yes|Application (Driving with diverse kinds of annotations)|[Dataset](https://bdd-data.berkeley.edu/)|
 |DARK FACE [paper](https://arxiv.org/abs/1904.04474)|6000|RGB|Real|No|Application (Face Recognition)|[Dataset](https://flyywh.github.io/CVPRW2019LowLight/)|
-|NightCity [paper](https://arxiv.org/pdf/2003.06883.pdf)|4297|RGB|Real|No|Application (Sememtic Segmentation)||
+|NightCity [paper](https://arxiv.org/pdf/2003.06883.pdf)|4297|RGB|Real|No|Application (Semantic Segmentation)||
 
 ## 📋Metrics
 |Abbreviation|Full-/Non-Reference|Platform|Code|
