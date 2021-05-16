@@ -46,7 +46,7 @@ LoLi-Phone dataset contains 120 videos (55,148 images) taken by 18 different pho
 |2020|CVPR|From fidelity to perceptual quality: A semi-supervised approach for low-light image enhancement [paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Yang_From_Fidelity_to_Perceptual_Quality_A_Semi-Supervised_Approach_for_Low-Light_CVPR_2020_paper.html)|DRBN|[Code](https://github.com/flyywh/CVPR-2020-Semi-Low-Light)|PyTorch|
 |2020|ACMMM|Fast enhancement for non-uniform illumination images using light-weight CNNs [paper](https://dl.acm.org/doi/abs/10.1145/3394171.3413925)|Lv et al.| |TensorFlow|
 |2020|ACMMM|Integrating semantic segmentation and retinex model for low light image enhancement [paper](https://dl.acm.org/doi/abs/10.1145/3394171.3413757)|Fan et al.| | |
-|2020|CVPR|Learning to restore low-light images via decomposition-and-enhancement [paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Xu_Learning_to_Restore_Low-Light_Images_via_Decomposition-and-Enhancement_CVPR_2020_paper.html)|Xu et al.| |PyTorch|
+|2020|CVPR|Learning to restore low-light images via decomposition-and-enhancement [paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Xu_Learning_to_Restore_Low-Light_Images_via_Decomposition-and-Enhancement_CVPR_2020_paper.html)|Xu et al.|[Code](https://drive.google.com/drive/folders/1L3RDbd3sk_TcMTrSmZXn8KLg8opjOjf0) |PyTorch|
 |2020|AAAI|EEMEFN: Low-light image enhancement via edge-enhanced multi-exposure fusion network [paper](https://ojs.aaai.org/index.php/AAAI/article/view/7013)|EEMEFN| |PyTorch|
 |2020|TIP|Lightening network for low-light image enhancement [paper](https://ieeexplore.ieee.org/abstract/document/9141197)|DLN| |PyTorch|
 |2020|TMM|Luminance-aware pyramid network for low-light image enhancement [paper](https://ieeexplore.ieee.org/abstract/document/9186194)|LPNet| |PyTorch|
@@ -70,10 +70,10 @@ LoLi-Phone dataset contains 120 videos (55,148 images) taken by 18 different pho
 |MEF [paper](https://ieeexplore.ieee.org/abstract/document/7120119)|17|RGB|Real|No|Unpaired|[Dataset](https://drive.google.com/drive/folders/1lp6m5JE3kf3M66Dicbx5wSnvhxt90V4T)|
 |DICM [paper](https://ieeexplore.ieee.org/abstract/document/6467022)|64|RGB|Real|No|Unpaired|[Dataset](https://drive.google.com/drive/folders/1lp6m5JE3kf3M66Dicbx5wSnvhxt90V4T)|
 |VV|24|RGB|Real|No|Unpaired|[Dataset](https://drive.google.com/drive/folders/1lp6m5JE3kf3M66Dicbx5wSnvhxt90V4T)|
-|ExDARK [paper](https://www.sciencedirect.com/science/article/abs/pii/S1077314218304296)|7363|RGB|Real|No|Application|[Dataset](https://github.com/cs-chan/Exclusively-Dark-Image-Dataset)|
-|BBD-100K [paper](https://udparty.com/php/upload/20180627/153006477668ddb6563df254a8.pdf)|10,000|RGB|Real|Yes|Application|[Dataset](https://bdd-data.berkeley.edu/)|
-|DARK FACE [paper](https://arxiv.org/abs/1904.04474)|6000|RGB|Real|No|Application|[Dataset](https://flyywh.github.io/CVPRW2019LowLight/)|
-
+|ExDARK [paper](https://www.sciencedirect.com/science/article/abs/pii/S1077314218304296)|7363|RGB|Real|No|Application (Object Detection)|[Dataset](https://github.com/cs-chan/Exclusively-Dark-Image-Dataset)|
+|BBD-100K [paper](https://udparty.com/php/upload/20180627/153006477668ddb6563df254a8.pdf)|10,000|RGB|Real|Yes|Application (Driving with diverse kinds of annotations)|[Dataset](https://bdd-data.berkeley.edu/)|
+|DARK FACE [paper](https://arxiv.org/abs/1904.04474)|6000|RGB|Real|No|Application (Face Recognition)|[Dataset](https://flyywh.github.io/CVPRW2019LowLight/)|
+|NightCity [paper](https://arxiv.org/pdf/2003.06883.pdf)|4297|RGB|Real|No|Application (Sememtic Segmentation)||
 
 ## 📋Metrics
 |Abbreviation|Full-/Non-Reference|Platform|Code|
