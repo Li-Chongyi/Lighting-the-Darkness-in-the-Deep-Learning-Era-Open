@@ -30,7 +30,7 @@ Currently, the LoLi-Platform covers 14 popular deep learning-based LLIE methods 
 ![Overview](/dataset_samples.png)
 LoLi-Phone dataset contains 120 videos (55,148 images) taken by 18 different phones' cameras including iPhone 6s, iPhone 7, iPhone7 Plus, iPhone8 Plus, iPhone 11, iPhone 11 Pro, iPhone XS, iPhone XR, iPhone SE, Xiaomi Mi 9, Xiaomi Mi Mix 3, Pixel 3, Pixel 4,  Oppo R17, Vivo Nex, LG M322, OnePlus 5T, Huawei Mate 20 Pro under diverse illumination conditions (e.g., weak illumination, underexposure, dark, extremely dark, back-lit, non-uniform light, color light sources, etc.) in the indoor and outdoor scenes. 
 
-Anyone can access the LoLi-Phone dataset by 
+Anyone can access the LoLi-Phone dataset via 
 
 Google Drive: https://drive.google.com/file/d/1QS4FgT5aTQNYy-eHZ_A89rLoZgx_iysR/view?usp=sharing or 
 
