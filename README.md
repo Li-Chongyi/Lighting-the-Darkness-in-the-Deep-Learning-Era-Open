@@ -64,6 +64,7 @@ LoLi-Phone dataset contains 120 videos (55,148 images) taken by 18 different pho
 |2021|CVPR|Retinex-inspired unrolling with cooperative prior architecture search for low-light image enhancement [paper](https://arxiv.org/abs/2012.05609)|RUAS |[Code](https://github.com/dut-media-lab/RUAS) |PyTorch|
 |2021|CVPR|Learning temporal consistency for low light video enhancement from single images [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Learning_Temporal_Consistency_for_Low_Light_Video_Enhancement_From_Single_CVPR_2021_paper.pdf)|Zhang et al. |[Code](https://github.com/zkawfanx/StableLLVE) |PyTorch|
 |2021|CVPR|Nighttime visibility enhancement by increasing the dynamic range and suppression of light effects [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Sharma_Nighttime_Visibility_Enhancement_by_Increasing_the_Dynamic_Range_and_Suppression_CVPR_2021_paper.pdf)|Sharma and Tan |  | |
+|2021|TCSVT|RetinexDIP: A unified deep framework for low-light image enhancement [paper](https://ieeexplore.ieee.org/document/9405649)|RetinexDIP|[Code](https://sites.google.com/view/tituszhao/home/retinexdip) |PyTorch|
 |2021|TCSVT|Low-light image enhancement via progressive-recursive network [paper](https://ieeexplore.ieee.org/abstract/document/9316686)|PRIEN |  | |
 ## 📋Datasets
 |Abbreviation|Number|Format|Real/Synetic|Video|Paired/Unpaired/Application|Dataset|
