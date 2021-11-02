@@ -118,7 +118,7 @@ If you find the repository helpful in your resarch, please cite the following pa
 @article{LoLi,
   title={Low-Light Image and Video Enhancement Using Deep Learning: A Survey},
   author={Li, Chongyi and Guo, Chunle and Han, Linghao and Jiang, Jun and Cheng, Ming-Ming and Gu, Jinwei and Loy, Chen Change},
-  journal={arXiv:2104.10729},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
   year={2021}
 }
 
