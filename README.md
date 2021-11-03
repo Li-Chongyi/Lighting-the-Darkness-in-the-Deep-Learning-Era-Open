@@ -33,7 +33,7 @@ Zero-DCE++: C. Li, C. Guo, and C. C. Loy, Learning to enhance low-light image vi
 7. [Citation](#Citation)
 
 ### 📋LoLi-Platform
-Currently, the LLIE-Platform covers 14 popular deep learning-based LLIE methods including LLNet, LightenNet, Retinex-Net, EnlightenGAN, MBLLEN, KinD, KinD++, TBEFN, DSLR, DRBN, ExCNet, Zero-DCE, Zero-DCE++, and RRDNet,  where the results of any inputs can be produced through a user-friendly web interface. Have fun: [LoLi-Platform](http://mc.nankai.edu.cn/ll/).
+Currently, the LLIE-Platform covers 14 popular deep learning-based LLIE methods including LLNet, LightenNet, Retinex-Net, EnlightenGAN, MBLLEN, KinD, KinD++, TBEFN, DSLR, DRBN, ExCNet, Zero-DCE, Zero-DCE++, and RRDNet,  where the results of any inputs can be produced through a user-friendly web interface. Have fun: [LLIE-Platform](http://mc.nankai.edu.cn/ll/).
 
 ### 📋LLIV-Phone
 ![Overview](/dataset_samples.png)
