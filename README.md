@@ -6,36 +6,38 @@ This repository provides
 
 3) collects deep learning-based low-light image and video enhancement **methods, datasets, and evaluation metrics**. 
 
-More content and details can be found in our Survey Paper: [Low-Light Image and Video Enhancement Using Deep Learning: A Survey](https://arxiv.org/abs/2104.10729). We provide the comparison results on the real low-light videos taken by different mobile phones’ cameras at YouTube https://www.youtube.com/watch?v=Elo9TkrG5Oo&t=6s.
+More content and details can be found in our Survey Paper: [Low-Light Image and Video Enhancement Using Deep Learning: A Survey](https://arxiv.org/abs/2104.10729). 
+
+We provide the comparison results on the real low-light videos taken by different mobile phones’ cameras at YouTube https://www.youtube.com/watch?v=Elo9TkrG5Oo&t=6s.
 
 ✌We will periodically update the content.  Welcome to let us know if we miss your work that is published in top-tier Journal or conference. We will add it.
 
-✌Our **LoLi-Platform** supports the function of download. Please right click and then save the figure. 
+✌Our **LLIE-Platform** supports the function of download. Please right click and then save the figure. 
 
 ✌If you use this dataset or platform, please cite our paper. Please hit the star at the top-right corner. Thanks!
 
 
 ## 📣News
-We newly add the Zero-DCE++ to the **LoLi-Platform**. Have Fun!
+We newly add the Zero-DCE++ to the **LLIE-Platform**. Have Fun!
 
 Zero-DCE++: C. Li, C. Guo, and C. C. Loy, Learning to enhance low-light image via zero-reference deep curve estimation, TPAMI, 2021.
 
 ## 🌱Contents
-1. [LoLi-Platform](#DarkPlatform)
-3. [LoLi-Phone Dataset](#LLIVPhone)
+1. [LLIE-Platform](#DarkPlatform)
+3. [LLIV-Phone Dataset](#LLIVPhone)
 4. [Methods](#Methods)
 5. [Datasets](#Datasets)
 6. [Metrics](#Metrics)
 7. [Citation](#Citation)
 
 ### 📋LoLi-Platform
-Currently, the LoLi-Platform covers 14 popular deep learning-based LLIE methods including LLNet, LightenNet, Retinex-Net, EnlightenGAN, MBLLEN, KinD, KinD++, TBEFN, DSLR, DRBN, ExCNet, Zero-DCE, Zero-DCE++, and RRDNet,  where the results of any inputs can be produced through a user-friendly web interface. Have fun: [LoLi-Platform](http://mc.nankai.edu.cn/ll/).
+Currently, the LLIE-Platform covers 14 popular deep learning-based LLIE methods including LLNet, LightenNet, Retinex-Net, EnlightenGAN, MBLLEN, KinD, KinD++, TBEFN, DSLR, DRBN, ExCNet, Zero-DCE, Zero-DCE++, and RRDNet,  where the results of any inputs can be produced through a user-friendly web interface. Have fun: [LoLi-Platform](http://mc.nankai.edu.cn/ll/).
 
-### 📋LoLi-Phone
+### 📋LLIV-Phone
 ![Overview](/dataset_samples.png)
-LoLi-Phone dataset contains 120 videos (45,148 images) taken by 18 different phones' cameras including iPhone 6s, iPhone 7, iPhone7 Plus, iPhone8 Plus, iPhone 11, iPhone 11 Pro, iPhone XS, iPhone XR, iPhone SE, Xiaomi Mi 9, Xiaomi Mi Mix 3, Pixel 3, Pixel 4,  Oppo R17, Vivo Nex, LG M322, OnePlus 5T, Huawei Mate 20 Pro under diverse illumination conditions (e.g., weak illumination, underexposure, dark, extremely dark, back-lit, non-uniform light, color light sources, etc.) in the indoor and outdoor scenes. 
+LLIV-Phone dataset contains 120 videos (45,148 images) taken by 18 different phones' cameras including iPhone 6s, iPhone 7, iPhone7 Plus, iPhone8 Plus, iPhone 11, iPhone 11 Pro, iPhone XS, iPhone XR, iPhone SE, Xiaomi Mi 9, Xiaomi Mi Mix 3, Pixel 3, Pixel 4,  Oppo R17, Vivo Nex, LG M322, OnePlus 5T, Huawei Mate 20 Pro under diverse illumination conditions (e.g., weak illumination, underexposure, dark, extremely dark, back-lit, non-uniform light, color light sources, etc.) in the indoor and outdoor scenes. 
 
-Anyone can access the LoLi-Phone dataset via 
+Anyone can access the LLIV-Phone dataset via 
 
 Google Drive: https://drive.google.com/file/d/1QS4FgT5aTQNYy-eHZ_A89rLoZgx_iysR/view?usp=sharing or 
 
