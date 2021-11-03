@@ -18,7 +18,9 @@ We provide the comparison results on the real low-light videos taken by differen
 
 
 ## 📣News
-We newly add the Zero-DCE++ to the **LLIE-Platform**. Have Fun!
+1. The survey is accepted by TPAMI. 
+
+2. We newly add the Zero-DCE++ to the **LLIE-Platform**. Have Fun!
 
 Zero-DCE++: C. Li, C. Guo, and C. C. Loy, Learning to enhance low-light image via zero-reference deep curve estimation, TPAMI, 2021.
 
