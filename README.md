@@ -124,7 +124,7 @@ Baidu Cloud：https://pan.baidu.com/s/1-8PF3dfbtlHlmk9y5ZKx_w, Password: s0b9)
 |NIMA (Neural Image Assessment)|Non-Reference|PyTorch/TensorFlow|[Code](https://github.com/kentsyx/Neural-IMage-Assessment)/[Code](https://github.com/titu1994/neural-image-assessment)|
 
 ## 📜</g-emoji>License
-The code, platform, and dataset are made available for academic research purpose only. This project is open sourced under MIT license.
+The code, platform, and dataset are made available for academic research purpose only. 
 
 ## 📚</g-emoji>Citation
 If you find the repository helpful in your resarch, please cite the following paper.
@@ -136,10 +136,12 @@ If you find the repository helpful in your resarch, please cite the following pa
   year={2021}
 }
 ```
+## 📋Paper
+[Official Version](https://ieeexplore.ieee.org/document/9609683)
 
-[Official Version:](https://ieeexplore.ieee.org/document/9609683)
-[arXiv Version:](https://arxiv.org/pdf/2104.10729.pdf)
-[Chinese Version:](https://li-chongyi.github.io/PDF/Low_Light_Image_and_Video_Enhancement_Using_Deep_Learning__A_Survey.pdf)
+[arXiv Version](https://arxiv.org/pdf/2104.10729.pdf)
+
+[Chinese Version](https://li-chongyi.github.io/PDF/Low_Light_Image_and_Video_Enhancement_Using_Deep_Learning__A_Survey.pdf)
 
 ## 📭Contact
 
