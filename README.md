@@ -2,13 +2,15 @@
 ![teaser](/teaser.jpg)
 
 This repository provides 
-1) a unified online platform, **LLIE-Platform http://mc.nankai.edu.cn/ll/**, that covers many popular deep learning-based LLIE methods, of which the results can be produced through a user-friendly web interface, contains a low-light image and video dataset.
+ **1)** a unified online platform, **LLIE-Platform http://mc.nankai.edu.cn/ll/**, that covers many popular deep learning-based LLIE methods, of which the results can be produced through a user-friendly web interface, contains a low-light image and video dataset.
 
-2) a new dataset **LLIV-Phone https://drive.google.com/file/d/1QS4FgT5aTQNYy-eHZ_A89rLoZgx_iysR/view?usp=sharing**, in which the images and videos are taken by various phones' cameras under diverse illumination conditions and scenes, and 
+ **2)** a new dataset **LLIV-Phone https://drive.google.com/file/d/1QS4FgT5aTQNYy-eHZ_A89rLoZgx_iysR/view?usp=sharing**, in which the images and videos are taken by various phones' cameras under diverse illumination conditions and scenes, and 
 
-3) collects deep learning-based low-light image and video enhancement **methods, datasets, and evaluation metrics**. 
+ **3)** collects deep learning-based low-light image and video enhancement **methods, datasets, and evaluation metrics**. 
 
 More content and details can be found in our Survey Paper: [Low-Light Image and Video Enhancement Using Deep Learning: A Survey](https://arxiv.org/abs/2104.10729). 
+
+我们提供中文翻译版：[基于深度学习的低照度图像与视频增强综述](https://li-chongyi.github.io/PDF/Low_Light_Image_and_Video_Enhancement_Using_Deep_Learning__A_Survey.pdf). 
 
 We provide the comparison results on the real low-light videos taken by different mobile phones’ cameras at YouTube https://www.youtube.com/watch?v=Elo9TkrG5Oo&t=6s.
 
@@ -16,7 +18,7 @@ We provide the comparison results on the real low-light videos taken by differen
 
 ✌Our **LLIE-Platform** supports the function of download. Please right click and then save the figure. 
 
-✌If you use this dataset or platform, please cite our paper. Please hit the star at the top-right corner. Thanks!
+✌ **If you use this dataset or platform, please cite our paper. Please hit the star at the top-right corner. Thanks!**
 
 
 ## 📣News
