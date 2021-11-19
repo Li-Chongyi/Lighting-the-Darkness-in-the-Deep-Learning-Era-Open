@@ -135,11 +135,12 @@ If you find the repository helpful in your resarch, please cite the following pa
   journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
   year={2021}
 }
+```
 
 [Official Version:](https://ieeexplore.ieee.org/document/9609683)
 [arXiv Version:](https://arxiv.org/pdf/2104.10729.pdf)
 [Chinese Version:](https://li-chongyi.github.io/PDF/Low_Light_Image_and_Video_Enhancement_Using_Deep_Learning__A_Survey.pdf)
-```
+
 ## 📭Contact
 
 ```
