@@ -29,7 +29,7 @@ We provide the comparison results on the real low-light videos taken by differen
 
 Zero-DCE++: C. Li, C. Guo, and C. C. Loy, Learning to enhance low-light image via zero-reference deep curve estimation, TPAMI, 2021.
 
-3.  **如果你对低光照图像和视频增强感兴趣，可以加我微信进行交流。请注明姓名学校和目的，谢谢！(ID： lichongyi25).** 
+3.  **如果你对低光照图像和视频增强感兴趣，可以加我微信进行交流。请注明姓名、学校、目的，否则无法通过，谢谢！(ID： lichongyi25).** 
 
 
 ## 🌱Contents
