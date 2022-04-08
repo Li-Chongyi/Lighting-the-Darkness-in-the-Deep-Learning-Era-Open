@@ -127,7 +127,7 @@ Baidu Cloud：https://pan.baidu.com/s/1-8PF3dfbtlHlmk9y5ZKx_w, Password: s0b9)
 |PI (Perceptual Index)|Non-Reference|MATLAB|[Code](https://github.com/chaoma99/sr-metric)|
 |SPAQ (Smartphone Photography Attribute and Quality)|Non-Reference|PyTorch|[Code](https://github.com/h4nwei/SPAQ)|
 |NIMA (Neural Image Assessment)|Non-Reference|PyTorch/TensorFlow|[Code](https://github.com/kentsyx/Neural-IMage-Assessment)/[Code](https://github.com/titu1994/neural-image-assessment)|
-
+|MUSIQ (Multi-scale Image Quality Transformer)|Non-Reference|TensorFlow|[Code](https://github.com/google-research/google-research/tree/master/musiq)/[Code](https://github.com/titu1994/neural-image-assessment)|
 ## 📜</g-emoji>License
 The code, platform, and dataset are made available for academic research purpose only. 
 
